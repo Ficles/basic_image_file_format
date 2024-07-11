@@ -1,18 +1,18 @@
 # TODO
 Todo list for the project
 ## Projects
-- [ ] The Format Itself
+- [x] The Format Itself
 - [ ] The Image Viewer
 - [ ] The Converter
 
 ### The Format Itself
-- [ ] Headers
-  - [ ] Image Size X/Y
-  - [ ] Image Name
-  - [ ] Creator
-- [ ] Image
-  - [ ] Pixel Colour
-  - [ ] Pixel Position
+- [x] Headers
+  - [x] Image Size X/Y
+  - [x] Image Name
+  - [x] Creator
+- [x] Image
+  - [x] Pixel Colour
+  - [x] Pixel Position
 
 ### The Image Viewer
 - [ ] Display image name
