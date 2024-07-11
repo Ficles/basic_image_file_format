@@ -12,6 +12,8 @@ I was inspired to make this because of [this](https://youtu.be/48B8FPmMT0g) vide
 
 
 ## Disclaimers
+Copyright © Ficles 2024
+
 All of the content in this repository is under the GNU GPL License V3.0.
 
 This project comes with ABSOLUTLY NO WARRANTY!
