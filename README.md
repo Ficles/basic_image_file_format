@@ -6,7 +6,7 @@ This repository includes the .png to .biff converter and the image viewer.
 
 All of the code in this project is written in rust.
 
-This is my first rust project so please be kind.
+This is my first rust project so please be kind. (This was FAR to complex for my first rust project I think my brain exploded.)
 
 I was inspired to make this because of [this](https://youtu.be/48B8FPmMT0g) video by FaceDev
 
