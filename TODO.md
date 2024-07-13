@@ -15,6 +15,8 @@ Todo list for the project
   - [x] Pixel Position
 
 ### The Image Viewer
+- [x] Simple app
+- [x] Take a file name
 - [ ] Display image name
 - [ ] Display image
 - [ ] Display image creator
